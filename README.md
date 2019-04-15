@@ -15,6 +15,7 @@ Dataset Versions and Downloads:
 | Version | Link                                 |
 | :-----: | ------------------------------------ |
 | 2.0     | https://doi.org/10.5880/pik.2019.001 |
+| 1.2     | https://doi.org/10.5880/PIK.2018.003 |
 | 1.1     | https://doi.org/10.5880/PIK.2017.001 |
 | 1.0     | https://doi.org/10.5880/PIK.2016.003 |
 
