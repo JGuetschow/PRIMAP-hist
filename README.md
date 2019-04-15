@@ -13,10 +13,9 @@ Dataset Description Paper:
 Dataset Versions and Downloads:
 
 | Version | Link                                 |
-| ------- | ------------------------------------ |
+| :-----: | ------------------------------------ |
 | 2.0     | https://doi.org/10.5880/pik.2019.001 |
 | 1.1     | https://doi.org/10.5880/PIK.2017.001 |
 | 1.0     | https://doi.org/10.5880/PIK.2016.003 |
-| ------- | ------------------------------------ |
 
 Please report issues you encounter when using the dataset in the [issue tracker](https://github.com/JGuetschow/PRIMAP-hist/issues) of this repository or by sending an email to Johannes Gütschow (johannes.guetschow@pik-potsdam.de).
