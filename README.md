@@ -14,7 +14,7 @@ https://www.pik-potsdam.de/paris-reality-check/primap-hist/
 
 | Version | Link                                 |
 | :-----: | ------------------------------------ |
-| 2.1 beta2   | email johannes.guetschow@pik-potsdam.de  |
+| 2.1     | https://doi.org/10.5880/PIK.2019.018  |
 | 2.0     | https://doi.org/10.5880/PIK.2019.001 |
 | 1.2     | https://doi.org/10.5880/PIK.2018.003 |
 | 1.1     | https://doi.org/10.5880/PIK.2017.001 |
