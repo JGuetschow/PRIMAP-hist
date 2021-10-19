@@ -14,6 +14,8 @@ https://www.pik-potsdam.de/paris-reality-check/primap-hist/
 
 | Version | Link                                   |
 | :-----: | -------------------------------------- |
+| 2.3.1   | https://doi.org/10.5281/zenodo.5494497 |
+| 2.3     | https://doi.org/10.5281/zenodo.5175154 |
 | 2.2     | https://doi.org/10.5281/zenodo.4479172 |
 | 2.1     | https://doi.org/10.5880/PIK.2019.018   |
 | 2.0     | https://doi.org/10.5880/PIK.2019.001   |
