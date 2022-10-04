@@ -4,7 +4,7 @@ The PRIMAP-hist dataset combines several published datasets to create a comprehe
 
 ## Website
 
-https://www.pik-potsdam.de/paris-reality-check/primap-hist/
+https://primap.org/primap-hist/
 
 ## Dataset Description Paper
 
