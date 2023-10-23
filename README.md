@@ -12,17 +12,20 @@ https://www.primap.org/primap-hist/
 
 ## Dataset Versions and Downloads
 
-| Version | Link                                   |
-| :-----: | -------------------------------------- |
-| 2.4     | https://doi.org/10.5281/zenodo.7179775 |
-| 2.3.1   | https://doi.org/10.5281/zenodo.5494497 |
-| 2.3     | https://doi.org/10.5281/zenodo.5175154 |
-| 2.2     | https://doi.org/10.5281/zenodo.4479172 |
-| 2.1     | https://doi.org/10.5880/PIK.2019.018   |
-| 2.0     | https://doi.org/10.5880/PIK.2019.001   |
-| 1.2     | https://doi.org/10.5880/PIK.2018.003   |
-| 1.1     | https://doi.org/10.5880/PIK.2017.001   |
-| 1.0     | https://doi.org/10.5880/PIK.2016.003   |
+| Version | Link                                    |
+| :-----: | --------------------------------------- |
+| 2.5     | https://doi.org/10.5281/zenodo.10006301 |
+| 2.4.2   | https://doi.org/10.5281/zenodo.7727475  |
+| 2.4.1   | https://doi.org/10.5281/zenodo.7585420  |
+| 2.4     | https://doi.org/10.5281/zenodo.7179775  |
+| 2.3.1   | https://doi.org/10.5281/zenodo.5494497  |
+| 2.3     | https://doi.org/10.5281/zenodo.5175154  |
+| 2.2     | https://doi.org/10.5281/zenodo.4479172  |
+| 2.1     | https://doi.org/10.5880/PIK.2019.018    |
+| 2.0     | https://doi.org/10.5880/PIK.2019.001    |
+| 1.2     | https://doi.org/10.5880/PIK.2018.003    |
+| 1.1     | https://doi.org/10.5880/PIK.2017.001    |
+| 1.0     | https://doi.org/10.5880/PIK.2016.003    |
 
 ## Issues
 
