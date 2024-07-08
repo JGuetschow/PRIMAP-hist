@@ -14,6 +14,7 @@ https://www.primap.org/primap-hist/
 
 | Version | Link                                    |
 | :-----: | --------------------------------------- |
+| 2.5.1   | https://doi.org/10.5281/zenodo.10705513 |
 | 2.5     | https://doi.org/10.5281/zenodo.10006301 |
 | 2.4.2   | https://doi.org/10.5281/zenodo.7727475  |
 | 2.4.1   | https://doi.org/10.5281/zenodo.7585420  |
